@@ -28,8 +28,8 @@ Repository provides following contents:
 ## Third party code for testing auto scale based on gpu burn
 
 ```bash
-git clone https://github.com/GoogleCloudPlatform/tensorflow-inference-tensorrt-t4-gpu.git
-cd tensorflow-inference-tensorrt-t4-gpu
+git clone https://github.com/GoogleCloudPlatform/tensorflow-inference-tensorrt5-t4-gpu.git
+cd tensorflow-inference-tensorrt5-t4-gpu
 git submodule update --init --recursive
 cd third_party/gpu-burn
 make
