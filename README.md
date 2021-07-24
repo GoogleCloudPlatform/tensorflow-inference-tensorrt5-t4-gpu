@@ -15,6 +15,12 @@
   limitations under the License.
 -->
 
+# ⚠️⚠️⚠️⚠️⚠️⚠️⚠️ DEPRECATED ⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+This script is no longer maintained and will not be updated.
+It has beed replaced by a more generic solution hosted in new repository:
+https://github.com/GoogleCloudPlatform/compute-gpu-monitoring
+
 # TensorFlow Inference at scale using Nvidia T4 GPU on Google Cloud Platform
 
 This repository provides scripts to create inference server with auto scaling group based on the GPU utilization.
